@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: "Source Serif Pro", Iowan Old Style, Apple Garamond,
+    Palatino Linotype;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+[class^="dot"] {
+  cursor: move;
+  fill: steelblue;
+}
+
+[class] {
+  outline: 1px solid transparent;
+}
